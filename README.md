@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/phamthanhcuong](https://www.linkedin.com/in/phamthanhcuong)
 
-- 💬 Ask me about **Blazor, MAUI, .Net**
+- 💬 Ask me about ** .Net**
 
 - 📫 How to reach me **phamthanhcuong.henry@gmail.com**
 
